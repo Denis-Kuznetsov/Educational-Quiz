@@ -1,0 +1,292 @@
+[
+{
+"id": "1",
+"question": "Consider an arithmetic sequence: 2, 6, 10, 14, ... Find the common difference, d.",
+"choice1": "6",
+"choice2": "5",
+"choice3": "10",
+"choice4": "2",
+"answer": "2",
+"difficulty": "easy"
+},
+{
+"id": "2",
+"question": "Consider an arithmetic sequence: 2, 6, 10, 14, ... \n\nFind the 10th terms in the sequence.",
+"choice1": "26",
+"choice2": "18",
+"choice3": "38",
+"choice4": "44",
+"answer": "3",
+"difficulty": "easy"
+},
+{
+"id": "3",
+"question": "Consider an arithmetic sequence: 2, 6, 10, 14, ... \n\nFind the sum of the first 10 terms in the sequence.",
+"choice1": "100",
+"choice2": "280",
+"choice3": "160",
+"choice4": "220",
+"answer": "2",
+"difficulty": "easy"
+},
+{
+"id": "4",
+"question": "Consider the infinite geometric sequence: 4480, -3360, 2520, -1890, ... \n\nFind the common ratio, r.",
+"choice1": "-0.75",
+"choice2": "1.25",
+"choice3": "0.75",
+"choice4": "-1.25",
+"answer": "1",
+"difficulty": "easy"
+},
+{
+"id": "5",
+"question": "Consider the infinite geometric sequence: 4480, -3360, 2520, -1890, ... \n\nFind the 20th term.",
+"choice1": "-44.6",
+"choice2": "32.2",
+"choice3": "-8.7",
+"choice4": "-18.9",
+"answer": "4",
+"difficulty": "easy"
+},
+{
+"id": "6",
+"question": "Consider the infinite geometric sequence: 4480, -3360, 2520, -1890, ...\n\nFind the exact sum of the infinite sequence.",
+"choice1": "1870",
+"choice2": "2560",
+"choice3": "3240",
+"choice4": "2320",
+"answer": "2",
+"difficulty": "easy"
+},
+{
+"id": "7",
+"question": "Let F(x) = x^2 and G(x) = 2x – 3.\n\nFind FoG(4).",
+"choice1": "29",
+"choice2": "32",
+"choice3": "25",
+"choice4": "21",
+"answer": "3",
+"difficulty": "easy"
+},
+{
+"id": "8",
+"question": "Calculate ((2 * 1,8) ^ 5) / (4 * 6,4)",
+"choice1": "25,4",
+"choice2": "23,6",
+"choice3": "23,2",
+"choice4": "21, 7",
+"answer": "2",
+"difficulty": "easy"
+},
+{
+"id": "9",
+"question": "Only one of the following sequences is arithmetic and only one is geometric.\nAn = 1/3, 1/4, 1/5, 1/6, …\nBn = 5/2, 5, 15/2, 10, …\nCn = 3, 1, 1/3, 1/9, …\nDn = 1, 3, 6, 10, …\n\nState the common difference, d, of the only arithmetic sequence.",
+"choice1": "Dn, d = 3",
+"choice2": "Bn, d = 5",
+"choice3": "Cn, d = 1/3",
+"choice4": "Bn, d = 5/2",
+"answer": "4",
+"difficulty": "easy"
+},
+{
+"id": "10",
+"question": "Only one of the following sequences is arithmetic and only one is geometric.\nAn = 1/3, 1/4, 1/5, 1/6, …\nBn = 5/2, 5, 15/2, 10, …\nCn = 3, 1, 1/3, 1/9, …\nDn = 1, 3, 6, 10, …\n\nState the common ratio, r, of the only geometric sequence.",
+"choice1": "An, r = 1/2",
+"choice2": "Bn, r = 2",
+"choice3": "Cn, r = 1/3",
+"choice4": "Dn, r = 3",
+"answer": "3",
+"difficulty": "easy"
+},
+{
+"id": "11",
+"question": "Only one of the following sequences is arithmetic and only one is geometric.\nAn = 1/3, 1/4, 1/5, 1/6, …\nBn = 5/2, 5, 15/2, 10, …\nCn = 3, 1, 1/3, 1/9, …\nDn = 1, 3, 6, 10, …\n\nFind the value of the 6th term of geometric sequence",
+"choice1": "1/6",
+"choice2": "1/27",
+"choice3": "1/81",
+"choice4": "1/21",
+"answer": "3",
+"difficulty": "easy"
+},
+{
+"id": "12",
+"question": "An arithmetic sequence has u1 = 12, u2 = 21, u3 = 30.\n\nFind u10.",
+"choice1": "85",
+"choice2": "89",
+"choice3": "96",
+"choice4": "93",
+"answer": "4",
+"difficulty": "easy"
+},
+{
+"id": "13",
+"question": "An arithmetic sequence has u1 = 12, u2 = 21, u3 = 30.\n\nFind the sum of the first 10 terms.",
+"choice1": "525",
+"choice2": "495",
+"choice3": "545",
+"choice4": "515",
+"answer": "1",
+"difficulty": "easy"
+},
+{
+"id": "14",
+"question": "The Australian Koala Foundation estimates that there are about 45000 koalas left in the wild in 2019. A year before, in 2018, the population of koalas was estimated as 50000. Assuming the population of koalas continues to decrease by the same percentage each year:\n\nFind the exact population of koalas in 2022",
+"choice1": "31785",
+"choice2": "34855",
+"choice3": "30225",
+"choice4": "32805",
+"answer": "4",
+"difficulty": "medium"
+},
+{
+"id": "15",
+"question": "The Australian Koala Foundation estimates that there are about 45000 koalas left in the wild in 2019. A year before, in 2018, the population of koalas was estimated as 50000. Assuming the population of koalas continues to decrease by the same percentage each year:\n\nThe number of years it will take for population of koalas to reduce to half of its number in 2018",
+"choice1": "6.58",
+"choice2": "6.38",
+"choice3": "7.28",
+"choice4": "7.68",
+"answer": "1",
+"difficulty": "medium"
+},
+{
+"id": "16",
+"question": "On Gary’s 50th birthday, he invests P$ in an account with a nominal interest rate of 5%, compounded monthly. The amount of money in Gary’s account at the end of each year follows a geometric sequence with a common ratio, R. \n\nFind the value of R.",
+"choice1": "1.049",
+"choice2": "1.056",
+"choice3": "1.051",
+"choice4": "1.059",
+"answer": "3",
+"difficulty": "medium"
+},
+{
+"id": "17",
+"question": "On Gary’s 50th birthday, he invests P$ in an account with a nominal interest rate of 5%, compounded monthly. The amount of money in Gary’s account at the end of each year follows a geometric sequence with a common ratio, R. Garry makes no further deposits or withdrawals from the account.\n\nFind the age Gary will be when the amount of money in his account doubles the amount invested",
+"choice1": "Garry will be 57",
+"choice2": "Garry will be 61",
+"choice3": "Garry will be 59",
+"choice4": "Garry will be 63",
+"answer": "4",
+"difficulty": "medium"
+},
+{
+"id": "18",
+"question": "The fourth term of geometric sequence is 135. The fifth term is 81.\n\nFind the first term.",
+"choice1": "600",
+"choice2": "615",
+"choice3": "625",
+"choice4": "640",
+"answer": "3",
+"difficulty": "medium"
+},
+{
+"id": "19",
+"question": "The fourth term of geometric sequence is 135. The fifth term is 81.\n\nCalculate the sum of the first 20 terms.",
+"choice1": "1500",
+"choice2": "1560",
+"choice3": "1600",
+"choice4": "1650",
+"answer": "2",
+"difficulty": "medium"
+},
+{
+"id": "20",
+"question": "Melinda has 300000$ in a private foundation. Each year she donates to charity 10% of the money remaining in her private foundation.\n\nFind the maximum number of years Melinda can donate to charity while keeping at least 100000$ in the private foundation.",
+"choice1": "11",
+"choice2": "13",
+"choice3": "15",
+"choice4": "17",
+"answer": "1",
+"difficulty": "medium"
+},
+{
+"id": "21",
+"question": "The first term of an arithmetic sequence is 24, and the common difference is 16. The first term of a geometric sequence is 8. The fourth term of the geometric sequence is equal to the 13th term of the arithmetic sequence given above.\n\nCalculate the common ratio R",
+"choice1": "2",
+"choice2": "3",
+"choice3": "2.5",
+"choice4": "3.5",
+"answer": "2",
+"difficulty": "medium"
+},
+{
+"id": "22",
+"question": "The 1st, 5th, 13th terms of an arithmetic sequence with a common difference D (D is not 0) are the first three terms of a geometric sequence with common ratio R (R is not 1). Given that the first terms of both sequences are equal to 12, find the value of D and R.",
+"choice1": "D = 2, R = 3",
+"choice2": "D = 3, R = 3",
+"choice3": "D = 2.5, R = 2",
+"choice4": "D = 3, R = 2",
+"answer": "4",
+"difficulty": "hard"
+},
+{
+"id": "23",
+"question": "It is known that the number of trees in a small forest decreases by 5% each year before new trees are planted. At the end of each year, 600 new trees are planted to the forest. At the beginning of 2022, there are 8200 trees in the forest.\n\nFind how many trees will be in the forest at the start of 2027.",
+"choice1": "8900",
+"choice2": "9060",
+"choice3": "9240",
+"choice4": "9450",
+"answer": "2",
+"difficulty": "hard"
+},
+{
+"id": "24",
+"question": "It is known that the number of trees in a small forest decreases by 5% each year before new trees are planted. At the end of each year, 600 new trees are planted to the forest. At the beginning of 2022, there are 8200 trees in the forest.\n\nFind the approximate number of trees at the start of 2042.",
+"choice1": "9743",
+"choice2": "10232",
+"choice3": "9574",
+"choice4": "10638",
+"answer": "4",
+"difficulty": "hard"
+},
+{
+"id": "25",
+"question": "The first three terms of infinite geometric sequence are k - 4, 4, k + 2, where k is integer.\n\nFind possible values for k.",
+"choice1": "-2 or 12",
+"choice2": "3 or -8",
+"choice3": "-4 or 6",
+"choice4": "6 or 2",
+"answer": "3",
+"difficulty": "hard"
+},
+{
+"id": "26",
+"question": "The first three terms of infinite geometric sequence are k - 4, 4, k + 2, where k is integer.\n\nFind possible values for r ",
+"choice1": "-1/2 or 2",
+"choice2": "1/2 or -2",
+"choice3": "4 or -1/4",
+"choice4": "-4 or 1/4",
+"answer": "1",
+"difficulty": "hard"
+},
+{
+"id": "27",
+"question": "The first three terms of infinite geometric sequence are k - 4, 4, k + 2, where k is integer.\nThe geometric sequence has an infinite sum for some values of common ratio, r.\n\nFind the sum of the sequence.",
+"choice1": "-3/16",
+"choice2": "3/16",
+"choice3": "-16/3",
+"choice4": "16/3",
+"answer": "3",
+"difficulty": "hard"
+},
+{
+"id": "28",
+"question": "Given a sequence of integers between 20 and 300, which are divisible by 9.\n\nFind their sum.",
+"choice1": "5022",
+"choice2": "5100",
+"choice3": "5145",
+"choice4": "5220",
+"answer": "1",
+"difficulty": "hard"
+},
+{
+"id": "29",
+"question": "An arithmetic sequence has the first term -500 and common difference of 8. The sum of the first n terms of this sequence is negative. \n\nFind the greatest value of n.",
+"choice1": "100",
+"choice2": "115",
+"choice3": "125",
+"choice4": "130",
+"answer": "3",
+"difficulty": "hard"
+}
+]
